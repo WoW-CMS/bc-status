@@ -32,7 +32,7 @@
             <div class="uk-card uk-card-default">
               <div class="uk-card-body uk-padding-remove">
                 <div class="uk-overflow-auto">
-                  <table class="uk-table uk-table-small uk-table-divider">
+                  <table class="uk-table uk-table-middle uk-table-divider uk-table-small">
                     <thead>
                       <tr>
                         <th class="uk-table-expand"><?= lang('name') ?></th>
